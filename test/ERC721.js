@@ -1,6 +1,6 @@
 const { expect } = require("chai");
 
-describe("NFT contract", function () {
+describe("ERC721URIStorage contract", function () {
  
     it("test passed", async function () {
      
